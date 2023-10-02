@@ -1,18 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Yusuf Setiawan</h1>
-<h3 align="center">A beginner web and mobile developer </h3>
-
-- 🔭 I used to code with  **:**
-
-  <p>
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h1 >Hi 👋, I'm Yusuf Setiawan</h1>
+<p > I am usually called <b>Ucup</b>, a website developer who focuses on the JavaScript programming language. In client-side development, I use the framework React.js and Next.js with Bootstrap and Material UI. My server-side development uses Node.js with the Express.js framework which uses the Model View Controller (MVC) architecture.
+</p>
+<br/>
+<p >
+My journey from a degree in Archaeology at the University of Indonesia to pursuing a career in web development has been driven by a deep-seated passion for technological advancements. The rapid evolution of technology, especially in the context of the global pandemic, has inspired me to embark on this career change. I eagerly embraced the challenges of programming, consistently pushing my boundaries and quickly applying newfound knowledge to create functional websites and mobile applications. My ability to adapt and apply my skills in a dynamic and evolving field is a testament to my determination and dedication.
 </p>
 
-
-- 📫 You can send me email **ysfstiawan@gmail.com**
-
-- ⚡ I like cardio sports such as **jogging, swimming, and cycling**
-
+<br/>
 
 ### Contribution Statics 
 ---
@@ -24,6 +19,7 @@
 <a align="center"><img width="auto" height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusetiawan&theme=default" /></a>
 </p>
 
+<br/>
 
 ### Connect with me🤝:
 ---
